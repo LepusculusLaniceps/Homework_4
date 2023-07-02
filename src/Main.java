@@ -54,6 +54,7 @@ public class Main {
             System.out.println("Если скорость " + v + ", то придется заплатить штраф.");
 
         }
+
     }
 
     public static void task4() {
